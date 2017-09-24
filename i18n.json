@@ -1,111 +1,132 @@
 {
-  "lan": ["cn", "en", "fr"],
+  "lan": ["cn", "en", "fr", "tw"],
   "default": "cn",
   "data": {
     "title": {
       "cn": "俄罗斯方块",
       "en": "T E T R I S",
-      "fr": "T E T R I S"
+      "fr": "T E T R I S",
+      "tw": "俄羅斯方塊"
     },
     "github": {
       "cn": "GitHub",
       "en": "GitHub",
-      "fr": "GitHub"
+      "fr": "GitHub",
+      "tw": "GitHub"
     },
     "linkTitle": {
       "cn": "查看源代码",
       "en": "View data source",
-      "fr": "Afficher la source des données"
+      "fr": "Afficher la source des données",
+      "tw": "原始碼"
     },
     "QRCode":{
       "cn": "二维码",
       "en": "QR code",
-      "fr": "QR code"
+      "fr": "QR code",
+      "tw": "QR code"
     },
     "QRNotice": {
       "cn": "扫一扫用手机玩",
       "en": "Scan QR code to play with a mobile phone",
-      "fr": "Numérisez le code QR pour jouer avec un téléphone mobile"
+      "fr": "Numérisez le code QR pour jouer avec un téléphone mobile",
+      "tw": "掃描 QR code 用手機玩"
     },
     "titleCenter": {
       "cn": "俄罗斯方块<br />TETRIS",
       "en": "TETRIS",
-      "fr": "TETRIS"
+      "fr": "TETRIS",
+      "tw": "俄羅斯方塊<br />TETRIS"
     },
     "point": {
       "cn": "得分",
       "en": "Point",
-      "fr": "Score"
+      "fr": "Score",
+      "tw": "得分"
     },
     "highestScore": {
       "cn": "最高分",
       "en": "Max",
-      "fr": "Max"
+      "fr": "Max",
+      "tw": "最高分"
     },
     "lastRound": {
       "cn": "上轮得分",
       "en": "Last Round",
-      "fr": "Dernier Tour"
+      "fr": "Dernier Tour",
+      "tw": "上輪得分"
     },
     "cleans": {
       "cn": "消除行",
       "en": "Cleans",
-      "fr": "Lignes"
+      "fr": "Lignes",
+      "tw": "消除行"
     },
     "level": {
       "cn": "级别",
       "en": "Level",
-      "fr": "Difficulté"
+      "fr": "Difficulté",
+      "tw": "級別"
     },
     "startLine": {
       "cn": "起始行",
       "en": "Start Line",
-      "fr": "Ligne Départ"
+      "fr": "Ligne Départ",
+      "tw": "起始行"
     },
     "next": {
       "cn": "下一个",
       "en": "Next",
-      "fr": "Prochain"
+      "fr": "Prochain",
+      "tw": "下一個"
     },
     "pause": {
       "cn": "暂停",
       "en": "Pause",
-      "fr": "Pause"
+      "fr": "Pause",
+      "tw": "暫停"
     },
     "sound": {
       "cn": "音效",
       "en": "Sound",
-      "fr": "Sonore"
+      "fr": "Sonore",
+      "tw": "音效"
     },
     "reset": {
       "cn": "重玩",
       "en": "Reset",
-      "fr": "Réinitialiser"
+      "fr": "Réinitialiser",
+      "tw": "重玩"
     },
     "rotation": {
       "cn": "旋转",
       "en": "Rotation",
-      "fr": "Rotation"
+      "fr": "Rotation",
+      "tw": "旋轉"
     },
     "left": {
       "cn": "左移",
       "en": "Left",
-      "fr": "Gauche"
+      "fr": "Gauche",
+      "tw": "左移"
     },
     "right": {
       "cn": "右移",
       "en": "Right",
-      "fr": "Droite"
+      "fr": "Droite",
+      "tw": "右移"
     },
     "down": {
       "cn": "下移",
       "en": "Down",
-      "fr": "Bas"
+      "fr": "Bas",
+      "tw": "下移"
     },
     "drop": {
       "cn": "掉落",
       "en": "Drop",
-      "fr": "Tomber"
+      "fr": "Tomber",
+      "tw": "掉落"
     }
   }
 }
